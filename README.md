@@ -54,10 +54,10 @@
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/QuYJLeo/QuYJLeo@main/assets/images/GRCBank.png" />
 
-- [广州农商银行](https://www.grcbank.com/) &emsp; 📌 2020-07 —— 2023-07
+- [北京火神永创科技有限公司](https://www.huoshentech.com/) &emsp; 📌 2019-04 —— 至今
 
-  - 工作岗位：系统开发岗
-  - 工作内容：参与网银开发与维护工作
+  - 工作岗位：视觉算法工程师
+  - 工作内容：参与视觉算法研究与开发
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/QuYJLeo/QuYJLeo@main/assets/images/Inspur.PNG" />
 
