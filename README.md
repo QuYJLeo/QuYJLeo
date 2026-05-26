@@ -34,8 +34,6 @@
 
 嗨，我是Leo，一名热爱编程的开发者，享受从零构建的乐趣。
 
-相信优雅的代码层次能让世界更美好。
-
 **Making the world better through elegant code hierarchies.**
 
 </div>
